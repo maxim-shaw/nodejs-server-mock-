@@ -1,0 +1,12 @@
+label {
+  display: inline-block;
+  padding: 4px 8px;
+  background-color: lightblue;
+  width: 100px;
+  border-bottom: 1px solid lightgray;
+  border-top: 1px solid white;
+}
+
+h3 {
+  border-bottom: 1px solid navy;
+}

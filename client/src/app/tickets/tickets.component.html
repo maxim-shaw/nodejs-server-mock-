@@ -1,0 +1,8 @@
+<div>
+  <ul>
+    <li *ngFor="let t of tickets|async">
+      <a routerLink="{{t.id}}">Ticket: {{t.id}}, {{t.description}}</a>
+    </li>
+  </ul>
+
+</div>

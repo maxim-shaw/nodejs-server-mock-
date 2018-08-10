@@ -1,0 +1,19 @@
+.header {
+  margin-bottom: 60px;
+}
+ul.navbar {
+  text-decoration: none;
+}
+
+ul.navbar li {
+  display: inline;
+  margin: 8px 4px;
+}
+
+ul.navbar li a {
+  display: inline;
+  outline: none;
+  padding: 6px 12px;
+  background-color: lightblue;
+  text-decoration: none;
+}
